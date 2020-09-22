@@ -1,3 +1,3 @@
-# Topic Title 2
+# Units with Videos
 
-This topic has 3 units - each unit has lectures + lab
+This topic has 2 units - these using have videos

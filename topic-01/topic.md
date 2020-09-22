@@ -1,3 +1,3 @@
-# Topic Title 1
+# Simple Units
 
-This topic has 3 units - each unit has lectures + lab
+This topic has 2 units - each unit has lectures + lab
